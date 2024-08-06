@@ -66,3 +66,5 @@ after the build is complete run the containers using the following command
 docker compose up
 ```
 now open localhost:3000 in your browser.
+
+Project is Developed By:-[Rushi Patel-https://www.linkedin.com/in/rushi-patel-193079266/]
